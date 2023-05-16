@@ -1,0 +1,12 @@
+body{
+    background-image: url("https://leclaireur.fnac.com/wp-content/uploads/2022/08/negan.jpg");
+    background-size: 2000px;
+}
+
+p{
+    text-align: center;
+    margin-top: 500px;
+    font-size: xxx-large;
+    color: yellow;
+    font-family: cursive;
+}
